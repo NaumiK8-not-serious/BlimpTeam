@@ -1,0 +1,4 @@
+main[0-9].py
+.idea/*
+arbitrarycallbackdatabot
+__pycache__/
