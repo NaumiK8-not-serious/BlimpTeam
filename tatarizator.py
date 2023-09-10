@@ -1,3 +1,5 @@
+# Это было сделано на скорую руку, в реальной жизни мы так не пишем. Потом исправим)))
+
 from transformers import SegformerImageProcessor, AutoModelForSemanticSegmentation
 from PIL import Image
 import requests
